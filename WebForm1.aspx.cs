@@ -8,8 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 /*Oluwaseun Talabi
- * 4/11/2020
- * asurite:ogtalabi
+ * 
  * Visual studio version 2019
  */
 namespace combined_webform
